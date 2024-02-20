@@ -11,7 +11,7 @@ Committed to continuous learning and skill development, I actively stay up-to-da
 Currently, I am engaged in Astro projects and am actively developing web applications using Angular for the frontend, Tailwind for styling, and .NET for the backend.
 
 ## Languages and Tools
-# I mainly focus on
+### I mainly focus on
 <img align="left" alt="dotnet" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/dot-net-plain.svg"/>
 <img align="left" alt="csharp" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/csharp.svg"/>
 <img align="left" alt="angular" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/angular.svg" />
