@@ -22,7 +22,6 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 <br />
 <br />
 ## This is my portfolio
-<br />
 <a href="https://marcosilva.tech/" style="margin:0;padding:0;"><img src="https://raw.githubusercontent.com/marekmars/marekmars/master/portfolio-svgrepo-com.png" style="width:30px;height:30px;margin:0;padding:0;"></a>
 
 
