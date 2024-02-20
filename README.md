@@ -18,7 +18,9 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 <img align="left" alt="typescript" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/ts.svg" />
 <img align="left" alt="tailwind" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/tailwind.svg" />
 <img align="left" alt="git" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/git-original.svg"/>
-<img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/mysql.svg" /> <br /><br />
+<img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/mysql.svg" />
+<br />
+#
 ## This is my portfolio
 <a href="https://marcosilva.tech/" style="margin:0;padding:0;"><img src="https://raw.githubusercontent.com/marekmars/marekmars/master/portfolio-svgrepo-com.png" style="width:30px;height:30px;margin:0;padding:0;"></a>
 
