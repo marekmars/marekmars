@@ -10,6 +10,8 @@ I am a passionate and focused individual with a keen interest in software develo
 Committed to continuous learning and skill development, I actively stay up-to-date with the latest technologies. I thrive both as a collaborative team member in agile projects and as a motivated self-starter capable of working under my initiative.
 Currently, I am engaged in Astro projects and am actively developing web applications using Angular for the frontend, Tailwind for styling, and .NET for the backend.
 
+---
+
 ## Languages and Tools
 ### I mainly focus on
 <img align="left" alt="dotnet" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/dot-net-plain.svg"/>
