@@ -22,6 +22,8 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 <img align="left" alt="git" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/git-original.svg"/>
 <img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/mysql.svg" /> 
 
+
+
 ### I am familiar working with
 <img align="left" alt="node" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/nodejs.svg"/>
 <img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/express.svg"/>
