@@ -29,17 +29,18 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 ### I am familiar working with
 
 
-  <img align="left" alt="node" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/nodejs.svg"/>
+<img align="left" alt="node" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/nodejs.svg"/>
 <img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/express.svg"/>
 <img align="left" alt="ionic" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/ionic-icon.svg"/>
 <img align="left" alt="capcitor" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/capacitor.svg"/>
 <img align="left" alt="docker" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/docker.svg" />
 <img align="left" alt="astro" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/astro.svg" />
+<br><br><br><br>
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/java.svg" />
 <img align="left" alt="figma" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/figma.svg"/>
-<img align="left" alt="android" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/android.svg" /> <br><br>
+<img align="left" alt="android" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/android.svg" />  
 
-  
+  <br><br>
 ---
 
 
