@@ -23,7 +23,7 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 <img align="left" alt="typescript" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/ts.svg" />
 <img align="left" alt="tailwind" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/tailwind.svg" />
 <img align="left" alt="git" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/git-original.svg"/>
-<img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/mysql.svg" /> <br>
+<img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/mysql.svg" /> <br><br>
 
 
 ### I am familiar working with
@@ -37,7 +37,7 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 <img align="left" alt="astro" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/astro.svg" />
 <img align="left" alt="java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/java.svg" />
 <img align="left" alt="figma" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/figma.svg"/>
-<img align="left" alt="android" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/android.svg" /> <br>
+<img align="left" alt="android" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/android.svg" /> <br><br>
 
   
 ---
