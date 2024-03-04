@@ -13,8 +13,8 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 ---
 
 ## Languages and Tools
-### I mainly focus on
 <div>
+### I mainly focus on
   <img align="left" alt="dotnet" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/dot-net-plain.svg"/>
 <img align="left" alt="csharp" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/csharp.svg"/>
 <img align="left" alt="angular" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/angular.svg" />
@@ -24,9 +24,9 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 <img align="left" alt="mysql" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/mysql.svg" /> <br /> <br /> 
 </div>
 
-
-### I am familiar working with
 <div>
+### I am familiar working with
+
   <img align="left" alt="node" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/nodejs.svg"/>
 <img align="left" alt="express" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/express.svg"/>
 <img align="left" alt="ionic" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/ionic-icon.svg"/>
@@ -37,11 +37,10 @@ Currently, I am engaged in Astro projects and am actively developing web applica
 <img align="left" alt="figma" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/figma.svg"/>
 <img align="left" alt="android" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/marekmars/marekmars/master/android.svg" />
 </div>
- <br /> <br /> 
 
 ---
-
+<div>
 ### This is my portfolio
 <a href="https://marcosilva.tech/" style="margin:0;padding:0;"><img src="https://raw.githubusercontent.com/marekmars/marekmars/master/portfolio-svgrepo-com.png" style="width:30px;height:30px;margin:0;padding:0;"></a>
-
+</div>div>
 
